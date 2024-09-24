@@ -4,12 +4,11 @@ The project helps manage a flower shop easily. The goal of the project is to ans
 
 ## Components
 - [Schema] (https://github.com/tatdieungan23/Flower-shop/blob/main/SCHEMA.sql)
-- Database
-- ER Diagram
-- Queries
-- Function
-- Procedure
-- Trigger
+- [Database](https://github.com/tatdieungan23/Flower-shop/blob/main/DATABASE.sql)
+- [Queries](https://github.com/tatdieungan23/Flower-shop/blob/main/QUERIES.sql)
+- [Function](https://github.com/tatdieungan23/Flower-shop/blob/main/FUNCTION.sql)
+- [Procedure](https://github.com/tatdieungan23/Flower-shop/blob/main/PROCEDURES.sql)
+- [Trigger](https://github.com/tatdieungan23/Flower-shop/blob/main/TRIGGERS.sql)
 
 ## Questions Answered
 - Provide information about the flowers supplied by each vendor.
