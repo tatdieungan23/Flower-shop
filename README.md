@@ -3,8 +3,7 @@
 The project helps manage a flower shop easily. The goal of the project is to answer a set of questions about the store's business performance and assist in its growth by making better decisions.
 
 ## Components
-- [Schema](https://github.com/tatdieungan23/Flower-shop/blob/main/SCHEMA.sql)
-- Database
+- Schema
 - ER Diagram
 - Queries
 - Function
